@@ -649,3 +649,42 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.06-04.32.12:104][454]SourceControl: Error: The file will have its original line endings in your working directory.
 [2020.10.06-04.32.12:104][454]SourceControl: Error: warning: LF will be replaced by CRLF in README.md.
 [2020.10.06-04.32.12:104][454]SourceControl: Error: The file will have its original line endings in your working directory.
+[2020.10.06-04.39.20:456][732]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={06610F26-40F9-1C4C-AEC1-F78FD49287E4}
+[2020.10.06-04.43.33:499][734]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.06-04.43.34:011][791]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap
+[2020.10.06-04.43.34:224][791]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.10.06-04.43.34:890][791]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.06-04.53.37:241][973]SourceControl: fatal: D:/Epic Games/UE_4.23/Engine/Content: 'D:/Epic Games/UE_4.23/Engine/Content' is outside repository
+[2020.10.06-04.53.37:430][973]EditorErrors: Warning: No assets to check in!
+[2020.10.06-04.53.42:485][545]LogSlate: Window '2DSideScrollerExampleMap' being destroyed
+[2020.10.06-04.53.42:500][545]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.10.06-04.53.48:081][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.06-04.53.55:393][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.10.06-04.53.55:529][ 57]LogSavePackage: Moving 'C:/Users/Sirc/Documents/Unreal Projects/CS328_Group_Project/Saved/2DSideScrollerExampleMap4052469D4CE1BD39ABA247B5982CDC11.tmp' to 'C:/Users/Sirc/Documents/Unreal Projects/CS328_Group_Project/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2020.10.06-04.53.55:542][ 57]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.183
+[2020.10.06-04.53.59:122][484]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2020.10.06-04.54.05:957][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.06-04.54.19:933][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.10.06-04.54.19:934][818]LogMetaData: Removing '/Game/2DSideScrollerBP/Maps/NoZoneStage.NoZoneStage_C' ref from Metadata '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.PackageMetaData'
+[2020.10.06-04.54.19:934][818]LogMetaData: Removing '/Game/2DSideScrollerBP/Maps/NoZoneStage.SKEL_NoZoneStage_C' ref from Metadata '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.PackageMetaData'
+[2020.10.06-04.54.19:954][818]LogSavePackage: Moving 'C:/Users/Sirc/Documents/Unreal Projects/CS328_Group_Project/Saved/NoZoneStage_BuiltDataFCAD1C134E42526FCA354FB56B0A4388.tmp' to 'C:/Users/Sirc/Documents/Unreal Projects/CS328_Group_Project/Content/2DSideScrollerBP/Maps/NoZoneStage_BuiltData.uasset'
+[2020.10.06-04.54.20:180][818]LogSavePackage: Moving 'C:/Users/Sirc/Documents/Unreal Projects/CS328_Group_Project/Saved/2DSideScrollerExampleMap_BuiltDa130F745244850A03E7BF04BD47D39A42.tmp' to 'C:/Users/Sirc/Documents/Unreal Projects/CS328_Group_Project/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2020.10.06-04.54.20:212][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.10.06-04.54.20:342][818]LogSavePackage: Moving 'C:/Users/Sirc/Documents/Unreal Projects/CS328_Group_Project/Saved/NoZoneStageF4CECBD9484D7F50DF75D2BA95F29473.tmp' to 'C:/Users/Sirc/Documents/Unreal Projects/CS328_Group_Project/Content/2DSideScrollerBP/Maps/NoZoneStage.umap'
+[2020.10.06-04.54.20:564][818]LogFileHelpers: Saving map 'NoZoneStage' took 0.380
+[2020.10.06-04.54.20:570][818]LogSavePackage: Moving 'C:/Users/Sirc/Documents/Unreal Projects/CS328_Group_Project/Saved/2DSideScrollerExampleMap8FDBDBB348BC98D76AE998AC8A17A79F.tmp' to 'C:/Users/Sirc/Documents/Unreal Projects/CS328_Group_Project/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2020.10.06-04.54.26:394][408]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.10.06-04.54.26:536][408]LogSavePackage: Moving 'C:/Users/Sirc/Documents/Unreal Projects/CS328_Group_Project/Saved/NoZoneStageD83694894D5FEEC61A78818D80E96C00.tmp' to 'C:/Users/Sirc/Documents/Unreal Projects/CS328_Group_Project/Content/2DSideScrollerBP/Maps/NoZoneStage.umap'
+[2020.10.06-04.54.26:647][408]LogSavePackage: Moving 'C:/Users/Sirc/Documents/Unreal Projects/CS328_Group_Project/Saved/NoZoneStage_BuiltDataE5BD26B741604754DD2522813186AD36.tmp' to 'C:/Users/Sirc/Documents/Unreal Projects/CS328_Group_Project/Content/2DSideScrollerBP/Maps/NoZoneStage_BuiltData.uasset'
+[2020.10.06-04.54.32:319][ 69]SourceControl: fatal: D:/Epic Games/UE_4.23/Engine/Content: 'D:/Epic Games/UE_4.23/Engine/Content' is outside repository
+[2020.10.06-04.54.40:227][ 69]LogSlate: Window 'Submit Files' being destroyed
+[2020.10.06-04.54.40:510][ 69]LogSourceControl: commit successful: [master 6520842] Change Map Name
+[2020.10.06-04.54.40:600][ 69]SourceControl: [master 6520842] Change Map Name
+[2020.10.06-04.54.40:600][ 69]SourceControl:  4 files changed, 0 insertions(+), 0 deletions(-)
+[2020.10.06-04.54.40:600][ 69]SourceControl:  rewrite Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap (100%)
+[2020.10.06-04.54.40:600][ 69]SourceControl:  rewrite Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset (100%)
+[2020.10.06-04.54.40:600][ 69]SourceControl:  create mode 100644 Content/2DSideScrollerBP/Maps/NoZoneStage.umap
+[2020.10.06-04.54.40:600][ 69]SourceControl:  create mode 100644 Content/2DSideScrollerBP/Maps/NoZoneStage_BuiltData.uasset
+[2020.10.06-04.54.40:606][ 69]SourceControl: Commited [master 6520842] Change Map Name.
+[2020.10.06-04.54.47:305][859]SourceControl: fatal: D:/Epic Games/UE_4.23/Engine/Content: 'D:/Epic Games/UE_4.23/Engine/Content' is outside repository
+[2020.10.06-04.54.47:495][859]EditorErrors: Warning: No assets to check in!
